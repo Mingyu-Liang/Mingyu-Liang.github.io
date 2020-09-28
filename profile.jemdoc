@@ -48,7 +48,7 @@ Supervised by Professor Chao Li (SJTU), Dec. 2017 to May. 2019
 Supervised by Professor Bingsheng He (NUS), Jun. 2018 to Oct. 2018
 
 - Proposed the generic index structure for vector collections search and a series of novel techniques including vector signature, residual sorting and dictionary initialization to guarantee the quality of the index
-- Completed the entire code work in C++ and built a demo called “AudioSearcher” for live audio streams
+- Completed the entire code work in C\+\+ and built a demo called “AudioSearcher” for live audio streams
 - Implemented crawler, word2vec model training and audio feature extraction for data preprocessing
 
 == Honors & Awards
