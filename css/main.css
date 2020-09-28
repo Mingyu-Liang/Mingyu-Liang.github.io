@@ -490,7 +490,7 @@ div#text-container h2{
 	border-bottom: none;
 	margin: 0px;
 	padding: 0px;
-	padding-top: 5px;
+	padding-top: 0px;
 }
 
 div#text-container h3{
@@ -510,7 +510,7 @@ div#text-container h3 + h1{
 
 div#text-container h2 + h3{
 	padding-top: 0px;
-	margin-top: 0px;
+	margin-top: 5px;
 }
 
 div#text-container p{
