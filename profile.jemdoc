@@ -1,0 +1,65 @@
+~~~
+{}{img_left}{./images/profile.jpg}{profile pic}{200px}{200px}{}
+= Mingyu Liang \n
+
+=== [https://www.csl.cornell.edu/ Computer Systems Laboratory, Electrical and Computer Engineering]\n
+~~~
+
+== Biography
+
+I am a second year Ph.D. student in Electrical and Computer Engineering at Cornell University, advised by Prof. [https://www.csl.cornell.edu/~delimitrou/ Christina Delimitrou]. 
+My research interest lies in cloud computing and computer architecture. Currently I am working on benchmark characterization and root cause analysis of large-scale microservices. 
+Before coming to Cornell, I obtained my B.S. degree in Computer Science at Shanghai Jiao Tong University (SJTU), working with Prof. [http://cs.sjtu.edu.cn/~lichao/index.html Chao Li].
+
+== Education
+
+=== Ph.D. student: Sept. 2019 - present
+
+Electrical and Computer Engineering, Cornell Unviersity
+
+=== Bachelor: Sept. 2015 - Jun. 2019
+
+Computer Science, Shanghai Jiao Tong University
+
+=== Summer Intern: Jun. 2018 to Oct. 2018
+
+Xtra Computing Group by Prof. [https://www.comp.nus.edu.sg/~hebs/ Bingsheng He], National University of Singapore
+
+== Publications
+
+Zeyi Wen, *Mingyu Liang*, Bingsheng He and Zexin Xia. High-Performance Index for Real-Time Matrix Retrieval. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.
+
+Xiaofeng Hou, *Mingyu Liang*, Chao Li, Wenli Zheng, Quan Chen, and Minyi Guo. When Power Oversubscription Meets Traffic Flood Attack: Re-thinking Data Center Peak Load Management. Proc. the 48th International Conference on Parallel Processing (ICPP), Aug. 2019.
+
+Zeyi Wen, *Mingyu Liang*, Bingsheng He, Zexin Xia, and Bo Li. Aucher: Multi-modal Queries on Live Audio Streams in Real-time. The 35th IEEE International Conference on Data Engineering (ICDE), pages 1960-1963, 2019 (demo).
+
+== Research experience
+
+=== Power Oversubscription in an Insecure Data Center
+
+Supervised by Professor Chao Li (SJTU), Dec. 2017 to May. 2019
+
+- Designed and evaluated cyber-attacks targeting different network layers in data center
+- Identified and demonstrated Denial of Power and Energy (DOPE) attack, a new threat to provisioned data centers
+- Proposed a threat mitigation framework called Anti-DOPE, which provided 44\% shorter average response time and 68.1\% better of 90th percentile tail latency compared with the existing power controlling methods
+
+=== Towards a Generic Index for Real-Time Vector Search
+
+Supervised by Professor Bingsheng He (NUS), Jun. 2018 to Oct. 2018
+
+- Proposed the generic index structure for vector collections search and a series of novel techniques including vector signature, residual sorting and dictionary initialization to guarantee the quality of the index
+- Completed the entire code work in C++ and built a demo called “AudioSearcher” for live audio streams
+- Implemented crawler, word2vec model training and audio feature extraction for data preprocessing
+
+== Honors & Awards
+
+- Cornell Graduate Fellowship
+- Zhiyuan College Honors Scholarship
+- Academic Excellence Scholarship of Shanghai Jiao Tong University
+- Zhiyuan Overseas Research Scholarship
+
+== Contact
+
+Email: ml2585@cornell.edu
+
+Address: Rhodes Hall 471C, Cornell University, Ithaca, NY, 14850
