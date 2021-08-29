@@ -7,8 +7,8 @@
 
 == Biography
 
-Hi, this is Mingyu! I am a second year Ph.D. student in Electrical and Computer Engineering at Cornell University, advised by Prof. [https://www.csl.cornell.edu/~delimitrou/ Christina Delimitrou]. 
-My research interest lies in the intersection of cloud computing, computer systems and computer architecture. I am currently working on benchmark characterization and root cause analysis of large-scale microservices. 
+Hi, this is Mingyu! I am a third year Ph.D. student in Electrical and Computer Engineering at Cornell University, advised by Prof. [https://www.csl.cornell.edu/~delimitrou/ Christina Delimitrou]. 
+My research interest lies in cloud computing, computer systems and computer architecture. I am currently working on benchmark characterization and root cause analysis of large-scale microservices. 
 Before joining Cornell, I obtained my B.S. degree in Computer Science at Shanghai Jiao Tong University (SJTU), advised by Prof. [http://cs.sjtu.edu.cn/~lichao/index.html Chao Li].
 
 == Education
@@ -21,13 +21,19 @@ Electrical and Computer Engineering, Cornell Unviersity
 
 Computer Science, Shanghai Jiao Tong University
 
-=== Summer intern: Jun. 2018 to Oct. 2018
+== Experience
 
-Xtra Computing Group, Prof. [https://www.comp.nus.edu.sg/~hebs/ Bingsheng He], National University of Singapore
+=== Research intern: May 2021 to Aug. 2021
+
+Google Brain, hosted by Martin Maas, Sudip Roy and Hyeontaek Lim
+
+=== Research intern: Jun. 2018 to Oct. 2018
+
+Xtra Computing Group, advised by Prof. [https://www.comp.nus.edu.sg/~hebs/ Bingsheng He], National University of Singapore
 
 == Publications
 
-Yu Gan, *Mingyu Liang*, Sundar Dev, David Lo, and Christina Delimitrou. "Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices". /To appear in 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2021./
+Yu Gan, *Mingyu Liang*, Sundar Dev, David Lo, and Christina Delimitrou. "Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices". /26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2021./
 
 Zeyi Wen, *Mingyu Liang*, Bingsheng He and Zexin Xia. "High-Performance Index for Real-Time Matrix Retrieval". /IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020./
 
