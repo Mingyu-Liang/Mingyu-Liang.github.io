@@ -54,6 +54,7 @@ div#header-text-container {
 	margin: 5px;
 	vertical-align: middle;
 	padding-top: 8px;
+	font-family: "Open Sans";
 }
 
 div#header-text-container a{
@@ -207,12 +208,14 @@ h1, h2, h3 {
 
 h1 {
 	font-size: 36px;
+	font-family: "Open Sans";
 }
 
 h2 {
 	padding-top: 0.8em;
 	margin-bottom: 16px;
 	font-size: 30px;
+	font-family: "Open Sans";
 }
 
 h2 + h3 {
@@ -224,6 +227,7 @@ h3 {
 	padding-top: 0px;
 	margin-bottom: 0px;
 	border-bottom: none;
+	font-family: "Open Sans";
 }
 
 p {
@@ -233,6 +237,7 @@ p {
 	margin-bottom: 0.8em;
 	padding: 0;
 	text-align: justify;
+	font-family: "Open Sans";
 }
 
 pre {
