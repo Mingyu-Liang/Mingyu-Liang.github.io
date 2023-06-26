@@ -7,8 +7,8 @@
 
 == Biography
 
-Hi, this is Mingyu! I am a fourth year Ph.D. student in Electrical and Computer Engineering at Cornell University, advised by Prof. [http://people.csail.mit.edu/delimitrou/ Christina Delimitrou]. 
-My research interest lies in cloud computing, computer systems and computer architecture. More recently, I am focusing on the benchmark generation for both AI workloads and cloud microservices. Before joining Cornell, I obtained my B.S. degree in Computer Science at Shanghai Jiao Tong University (SJTU), advised by Prof. [http://cs.sjtu.edu.cn/~lichao/index.html Chao Li].
+Hi, this is Mingyu! I am a fourth year Ph.D. candidate in Electrical and Computer Engineering at Cornell University, advised by Prof. [http://people.csail.mit.edu/delimitrou/ Christina Delimitrou]. 
+My research interest lies in cloud computing, ML and systems, and computer architecture. More recently, I am focusing on the benchmark generation for both AI workloads and cloud microservices. Before joining Cornell, I obtained my B.S. degree in Computer Science at Shanghai Jiao Tong University (SJTU), advised by Prof. [http://cs.sjtu.edu.cn/~lichao/index.html Chao Li].
 
 == Education
 
@@ -26,14 +26,14 @@ Computer Science, Shanghai Jiao Tong University
 \nMeta, Capacity Engineering and Analysis, mentored by Wenyin Fu
 
 *Research intern*: May-Aug, 2021
-\nGoogle Brain, mentored by Martin Maas, Sudip Roy and Hyeontaek Lim
+\nGoogle Brain, mentored by [https://sites.google.com/view/martinmaas/home Martin Maas], Sudip Roy and [https://hyeontaek.com/ Hyeontaek Lim]
 
 *Research intern*: Jun-Oct, 2018
 \nXtra Computing Group, advised by Prof. [https://www.comp.nus.edu.sg/~hebs/ Bingsheng He], National University of Singapore
 
 == Publications
 
-*Mingyu Liang*, Wenyin Fu, Zhongyi Lin, Louis Feng, Pavani Panakanti, Srinivas Sridharan, and Christina Delimitrou. "Mystique: Enabling Accurate and Scalable Generation of Production AI Benchmarks". /To appear in 50th International Symposium on Computer Architecture (ISCA), Orlando, Florida, June 2023./
+*Mingyu Liang*, Wenyin Fu, Zhongyi Lin, Louis Feng, Pavani Panakanti, Shengbao Zheng, Srinivas Sridharan, and Christina Delimitrou. "Mystique: Enabling Accurate and Scalable Generation of Production AI Benchmarks". /In 50th International Symposium on Computer Architecture (ISCA), Orlando, Florida, June 2023./
 
 *Mingyu Liang\**, Yu Gan*, Yueying Li, Carlos Torres, Abhishek Dhanotia, Mahesh Ketkar, and Christina Delimitrou. "Ditto: End-to-End Application Cloning for Networked Cloud Services". /In 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2023./
 
@@ -47,9 +47,17 @@ Zeyi Wen, *Mingyu Liang*, Bingsheng He, Zexin Xia, and Bo Li. "Aucher: Multi-mod
 
 == Honors & Awards
 
-Cornell Graduate Fellowship
+IEEE Micro’s Top Picks, for the paper “Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices”, 2021
 
-Zhiyuan College Honors Scholarship
+Cornell Graduate Fellowship, 2019
+
+Zhiyuan College Honors Scholarship, 2016, 2017
+
+== Teaching Experience
+
+Embedding Systems (ECE 3140), Spring 2023 
+
+Datacenter Computing (ECE 5710), Spring 2021
 
 == Contact
 
