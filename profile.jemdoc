@@ -33,7 +33,7 @@ Computer Science, Shanghai Jiao Tong University
 
 == Publications
 
-*Mingyu Liang*, Wenyin Fu, Zhongyi Lin, Louis Feng, Pavani Panakanti, Shengbao Zheng, Srinivas Sridharan, and Christina Delimitrou. "Mystique: Enabling Accurate and Scalable Generation of Production AI Benchmarks". /In 50th International Symposium on Computer Architecture (ISCA), Orlando, Florida, June 2023./
+*Mingyu Liang*, Wenyin Fu, Louis Feng, Zhongyi Lin, Pavani Panakanti, Shengbao Zheng, Srinivas Sridharan, and Christina Delimitrou. "Mystique: Enabling Accurate and Scalable Generation of Production AI Benchmarks". /In 50th International Symposium on Computer Architecture (ISCA), Orlando, Florida, June 2023./
 
 *Mingyu Liang\**, Yu Gan*, Yueying Li, Carlos Torres, Abhishek Dhanotia, Mahesh Ketkar, and Christina Delimitrou. "Ditto: End-to-End Application Cloning for Networked Cloud Services". /In 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2023./
 
@@ -46,6 +46,8 @@ Xiaofeng Hou, *Mingyu Liang*, Chao Li, Wenli Zheng, Quan Chen, and Minyi Guo. "W
 Zeyi Wen, *Mingyu Liang*, Bingsheng He, Zexin Xia, and Bo Li. "Aucher: Multi-modal Queries on Live Audio Streams in Real-time". /The 35th IEEE International Conference on Data Engineering (ICDE), pages 1960-1963, 2019 (demo)./
 
 == Honors & Awards
+
+[https://mlcommons.org/en/news/rising-stars-2023/ ML and Systems Rising Stars, ML Commons, 2023]
 
 IEEE Micro’s Top Picks, for the paper “Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices”, 2021
 
