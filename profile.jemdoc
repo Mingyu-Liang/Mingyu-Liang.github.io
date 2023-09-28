@@ -7,8 +7,8 @@
 
 == Biography
 
-Hi, this is Mingyu! I am a 5th year Ph.D. candidate in Electrical and Computer Engineering at Cornell University, advised by Prof. [http://people.csail.mit.edu/delimitrou/ Christina Delimitrou]. 
-My research interest lies in cloud computing, ML and systems, and computer architecture. More recently, I am focusing on the benchmark generation for both AI workloads and cloud microservices. Before joining Cornell, I obtained my B.S. degree in Computer Science at Shanghai Jiao Tong University (SJTU), advised by Prof. [http://cs.sjtu.edu.cn/~lichao/index.html Chao Li].
+Hi, this is Mingyu! I am a 5th year Ph.D. candidate at Cornell University, advised by Prof. [http://people.csail.mit.edu/delimitrou/ Christina Delimitrou]. 
+My research interest lies in Cloud Computing, ML and Systems, and Computer Architecture. More recently, I am focusing on the performance characterization and benchmark generation for cloud workloads. Before joining Cornell, I obtained my B.S. degree at Shanghai Jiao Tong University (SJTU), advised by Prof. [http://cs.sjtu.edu.cn/~lichao/index.html Chao Li]. I was a research intern at Google Brain and Meta.
 
 {{<font color=red><b>}}I am actively looking for full-time job opportunities in industry.{{</b></font>}} 
 
@@ -25,7 +25,7 @@ Computer Science, Shanghai Jiao Tong University
 == Experience
 
 *Research engineer intern*: May 2022 - Jan 2023
-\nMeta, Capacity Engineering and Analysis, mentored by Wenyin Fu
+\nMeta, mentored by Wenyin Fu
 
 *Research intern*: May-Aug, 2021
 \nGoogle Brain, mentored by [https://sites.google.com/view/martinmaas/home Martin Maas]
@@ -35,17 +35,17 @@ Computer Science, Shanghai Jiao Tong University
 
 == Publications
 
-*Mingyu Liang*, Wenyin Fu, Louis Feng, Zhongyi Lin, Pavani Panakanti, Shengbao Zheng, Srinivas Sridharan, and Christina Delimitrou. "Mystique: Enabling Accurate and Scalable Generation of Production AI Benchmarks". /In 50th International Symposium on Computer Architecture (ISCA), Orlando, Florida, June 2023./
+*Mingyu Liang*, Wenyin Fu, Louis Feng, Zhongyi Lin, Pavani Panakanti, Shengbao Zheng, Srinivas Sridharan, and Christina Delimitrou. "Mystique: Enabling Accurate and Scalable Generation of Production AI Benchmarks". /In 50th International Symposium on Computer Architecture (ISCA), Orlando, Florida, June 2023./ [files/isca23-mystique.pdf \[pdf\]]
 
-*Mingyu Liang\**, Yu Gan*, Yueying Li, Carlos Torres, Abhishek Dhanotia, Mahesh Ketkar, and Christina Delimitrou. "Ditto: End-to-End Application Cloning for Networked Cloud Services". /In 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2023./
+*Mingyu Liang\**, Yu Gan*, Yueying Li, Carlos Torres, Abhishek Dhanotia, Mahesh Ketkar, and Christina Delimitrou. "Ditto: End-to-End Application Cloning for Networked Cloud Services". /In 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2023./ [files/asplos23-ditto.pdf \[pdf\]]
 
-Yu Gan, *Mingyu Liang*, Sundar Dev, David Lo, and Christina Delimitrou. "Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices". /26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2021./
+Yu Gan, *Mingyu Liang*, Sundar Dev, David Lo, and Christina Delimitrou. "Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices". /26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2021./ [files/asplos21-sage.pdf \[pdf\]]
 
-Zeyi Wen, *Mingyu Liang*, Bingsheng He and Zexin Xia. "High-Performance Index for Real-Time Matrix Retrieval". /IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020./
+Zeyi Wen, *Mingyu Liang*, Bingsheng He and Zexin Xia. "High-Performance Index for Real-Time Matrix Retrieval". /IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020./ [files/tkde20-matrix-search.pdf \[pdf\]]
 
-Xiaofeng Hou, *Mingyu Liang*, Chao Li, Wenli Zheng, Quan Chen, and Minyi Guo. "When Power Oversubscription Meets Traffic Flood Attack: Re-thinking Data Center Peak Load Management". /Proc. the 48th International Conference on Parallel Processing (ICPP), Aug. 2019./
+Xiaofeng Hou, *Mingyu Liang*, Chao Li, Wenli Zheng, Quan Chen, and Minyi Guo. "When Power Oversubscription Meets Traffic Flood Attack: Re-thinking Data Center Peak Load Management". /Proc. the 48th International Conference on Parallel Processing (ICPP), Aug. 2019./ [files/icpp19-power.pdf \[pdf\]]
 
-Zeyi Wen, *Mingyu Liang*, Bingsheng He, Zexin Xia, and Bo Li. "Aucher: Multi-modal Queries on Live Audio Streams in Real-time". /The 35th IEEE International Conference on Data Engineering (ICDE), pages 1960-1963, 2019 (demo)./
+Zeyi Wen, *Mingyu Liang*, Bingsheng He, Zexin Xia, and Bo Li. "Aucher: Multi-modal Queries on Live Audio Streams in Real-time". /The 35th IEEE International Conference on Data Engineering (ICDE), pages 1960-1963, 2019 (demo)./ [files/icde19-aucher.pdf \[pdf\]]
 
 == Honors & Awards
 
