@@ -8,7 +8,7 @@
 == Biography
 
 I am a final-year Ph.D. candidate at Cornell University, advised by Prof. [http://people.csail.mit.edu/delimitrou/ Christina Delimitrou]. 
-My research interest lies in Cloud Computing, ML and Systems, and Computer Architecture. More recently, I focus on the performance optimization and benchmark generation for ML models. I was a research intern at Google Brain in 2021 and at Meta in 2022.
+My research interest lies in ML Systems Hardware/Software Co-Design, Cloud Systems and Benchmarking, Computer Architecture. I was a research intern at Google Brain in 2021 and at Meta in 2022, 2024.
 
 Before joining Cornell, I obtained my B.S. degree at Shanghai Jiao Tong University, advised by Prof. [http://cs.sjtu.edu.cn/~lichao/index.html Chao Li]. 
 
@@ -22,16 +22,21 @@ Bachelor in Computer Science, Shanghai Jiao Tong University, 2019
 
 == Experience
 
-*Research engineer intern*: May 2022 - Jan 2023
+*Research intern*: May 2024 - present
+\nMeta, mentored by Krishna Malladi
+\nProject: HW architecture design for ML inference
+
+*Research intern*: May 2022 - Jan 2023
 \nMeta, mentored by Wenyin Fu
+\nProject: Production AI benchmarks generation
 
 *Research intern*: May-Aug, 2021
 \nGoogle Brain, mentored by [https://sites.google.com/view/martinmaas/home Martin Maas]
-
-*Research intern*: Jun-Oct, 2018
-\nXtra Computing Group, advised by Prof. [https://www.comp.nus.edu.sg/~hebs/ Bingsheng He], National University of Singapore
+\nProject: Large-scale distributed ML workloads training and scheduling
 
 == Publications
+
+*Mingyu Liang*, Hiwot Tadese Kassa, Wenyin Fu, Brian Coutinho, Louis Feng, and Christina Delimitrou. "Fine-grained Trace-driven Performance Modeling and Simulation for Large-scale ML Training". /In the Workshop on Machine Learning for Computer Architecture and Systems (MLArchSys), Buenos Aires, Argentina, June 2024./ [files/mlarchsys24-tracesim.pdf \[pdf\]]
 
 *Mingyu Liang*, Wenyin Fu, Louis Feng, Zhongyi Lin, Pavani Panakanti, Shengbao Zheng, Srinivas Sridharan, and Christina Delimitrou. "Mystique: Enabling Accurate and Scalable Generation of Production AI Benchmarks". /In 50th International Symposium on Computer Architecture (ISCA), Orlando, Florida, June 2023./ [files/isca23-mystique.pdf \[pdf\]]
 
@@ -43,13 +48,11 @@ Zeyi Wen, *Mingyu Liang*, Bingsheng He and Zexin Xia. "High-Performance Index fo
 
 Xiaofeng Hou, *Mingyu Liang*, Chao Li, Wenli Zheng, Quan Chen, and Minyi Guo. "When Power Oversubscription Meets Traffic Flood Attack: Re-thinking Data Center Peak Load Management". /Proc. the 48th International Conference on Parallel Processing (ICPP), Aug. 2019./ [files/icpp19-power.pdf \[pdf\]]
 
-Zeyi Wen, *Mingyu Liang*, Bingsheng He, Zexin Xia, and Bo Li. "Aucher: Multi-modal Queries on Live Audio Streams in Real-time". /The 35th IEEE International Conference on Data Engineering (ICDE), pages 1960-1963, 2019 (demo)./ [files/icde19-aucher.pdf \[pdf\]]
-
 == Honors & Awards
 
-IEEE Micro’s Top Picks, for the paper “Ditto: End-to-End Application Cloning for Networked Cloud Services”, 2023
-
 [https://mlcommons.org/en/news/rising-stars-2023/ ML and Systems Rising Stars], ML Commons, 2023
+
+IEEE Micro’s Top Picks, for the paper “Ditto: End-to-End Application Cloning for Networked Cloud Services”, 2023
 
 IEEE Micro’s Top Picks, for the paper “Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices”, 2021
 
@@ -58,6 +61,8 @@ Cornell Graduate Fellowship, 2019
 Zhiyuan College Honors Scholarship, 2016, 2017
 
 == Teaching Experience
+
+Computer Architecture (ECE 4750), Spring 2023 
 
 Embedding Systems (ECE 3140), Spring 2023 
 
