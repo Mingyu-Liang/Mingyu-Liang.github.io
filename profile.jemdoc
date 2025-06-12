@@ -1,6 +1,6 @@
 ~~~
 = Mingyu Liang \n
-{}{img_right}{./images/profile1.jpg}{profile pic}{200px}{200px}{}
+{}{img_right}{./images/profile.jpg}{profile pic}{200px}{200px}{}
 ~~~
 
 == Biography
@@ -20,11 +20,11 @@ Bachelor in Computer Science, Shanghai Jiao Tong University, 2019
 
 == Experience
 
-*Research intern*: May 2024 - Dec 2024
+*Research intern 2024*:
 \nMeta, mentored by Krishna Malladi
 \nProject: HW architecture design for ML inference
 
-*Research intern*: May 2022 - Jan 2023
+*Research intern, 2022*:
 \nMeta, mentored by Wenyin Fu
 \nProject: Production AI benchmarks generation
 
