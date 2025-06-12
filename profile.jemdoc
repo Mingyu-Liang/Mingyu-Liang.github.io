@@ -1,8 +1,6 @@
 ~~~
 = Mingyu Liang \n
 {}{img_right}{./images/profile.jpg}{profile pic}{200px}{200px}{}
-
-=== [https://www.csl.cornell.edu/ Computer Systems Laboratory, Electrical and Computer Engineering]\n
 ~~~
 
 == Biography
@@ -12,7 +10,7 @@ I am broadly interested in improving the performance and efficiency of cloud sys
 
 Before joining Cornell, I obtained my B.S. degree at Shanghai Jiao Tong University, advised by Prof. [http://cs.sjtu.edu.cn/~lichao/index.html Chao Li]. 
 
-I am now a software engineer at Google.
+I am now a software engineer at Google working on LLM performance.
 
 == Education
 
@@ -36,7 +34,7 @@ Bachelor in Computer Science, Shanghai Jiao Tong University, 2019
 
 == Publications
 
-*Mingyu Liang*, Hiwot Tadese Kassa, Wenyin Fu, Brian Coutinho, Louis Feng, and Christina Delimitrou. "Lumos: Efficient Performance Modeling and Estimation for Large-scale LLM Training". /To appear in Proceedings of the 8th Annual Conference on Machine Learning and Systems (MLSys'25)./
+*Mingyu Liang*, Hiwot Tadese Kassa, Wenyin Fu, Brian Coutinho, Louis Feng, and Christina Delimitrou. "Lumos: Efficient Performance Modeling and Estimation for Large-scale LLM Training". /In Proceedings of the 8th Annual Conference on Machine Learning and Systems (MLSys'25)./ [files/mlsys25-lumos.pdf \[pdf\]]
 
 *Mingyu Liang*, Hiwot Tadese Kassa, Wenyin Fu, Brian Coutinho, Louis Feng, and Christina Delimitrou. "Fine-grained Trace-driven Performance Modeling and Simulation for Large-scale ML Training". /In the Workshop on Machine Learning for Computer Architecture and Systems (MLArchSys'24)./ [files/mlarchsys24-tracesim.pdf \[pdf\]]
 
