@@ -5,12 +5,12 @@
 
 == Biography
 
-I received my Ph.D. at Cornell University in 2024, advised by Prof. [http://people.csail.mit.edu/delimitrou/ Christina Delimitrou]. 
-I am broadly interested in improving the performance and efficiency of cloud systems. I was a research intern at Google Brain in 2021 and at Meta in 2022, 2024.
+I received my Ph.D. from Cornell University in 2024, advised by Prof. [http://people.csail.mit.edu/delimitrou/ Christina Delimitrou]. 
+My research focuses on improving the performance and efficiency of cloud and machine learning systems. I was a research intern at Google Brain in 2021 and at Meta in 2022 and 2024.
 
-Before joining Cornell, I obtained my B.S. degree at Shanghai Jiao Tong University, advised by Prof. [http://cs.sjtu.edu.cn/~lichao/index.html Chao Li]. 
+Before joining Cornell, I obtained my B.S. degree from Shanghai Jiao Tong University. 
 
-I am now a software engineer at Google working on LLM performance.
+I am currently a software engineer at Google DeepMind, working on Gemini serving performance.
 
 == Education
 
@@ -22,7 +22,7 @@ Bachelor in Computer Science, Shanghai Jiao Tong University, 2019
 
 *Research intern*: 2024
 \nMeta, mentored by Krishna Malladi
-\nProject: HW architecture design for ML inference
+\nProject: Hardware architecture design for ML inference
 
 *Research intern*: 2022
 \nMeta, mentored by Wenyin Fu
@@ -32,7 +32,7 @@ Bachelor in Computer Science, Shanghai Jiao Tong University, 2019
 \nGoogle Brain, mentored by [https://sites.google.com/view/martinmaas/home Martin Maas]
 \nProject: Large-scale distributed ML workloads training and scheduling
 
-== Publications
+== Selected Publications
 
 *Mingyu Liang*, Hiwot Tadese Kassa, Wenyin Fu, Brian Coutinho, Louis Feng, and Christina Delimitrou. "Lumos: Efficient Performance Modeling and Estimation for Large-scale LLM Training". /In Proceedings of the 8th Annual Conference on Machine Learning and Systems (MLSys'25)./ [files/mlsys25-lumos.pdf \[pdf\]]
 
@@ -43,10 +43,6 @@ Bachelor in Computer Science, Shanghai Jiao Tong University, 2019
 *Mingyu Liang\**, Yu Gan*, Yueying Li, Carlos Torres, Abhishek Dhanotia, Mahesh Ketkar, and Christina Delimitrou. "Ditto: End-to-End Application Cloning for Networked Cloud Services". /In 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'23)./ {{<font color=red><b>}}/Selected in IEEE Micro's Top Picks special issue of "most significant papers in computer architecture based on novelty and long-term impact" for 2023./{{</b></font>}} [files/asplos23-ditto.pdf \[pdf\]]
 
 Yu Gan, *Mingyu Liang*, Sundar Dev, David Lo, and Christina Delimitrou. "Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices". /In 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'21)./ {{<font color=red><b>}}/Selected in IEEE Micro's Top Picks special issue of "most significant papers in computer architecture based on novelty and long-term impact" for 2021./{{</b></font>}} [files/asplos21-sage.pdf \[pdf\]] 
-
-Zeyi Wen, *Mingyu Liang*, Bingsheng He and Zexin Xia. "High-Performance Index for Real-Time Matrix Retrieval". /IEEE Transactions on Knowledge and Data Engineering (TKDE'20)./ [files/tkde20-matrix-search.pdf \[pdf\]]
-
-Xiaofeng Hou, *Mingyu Liang*, Chao Li, Wenli Zheng, Quan Chen, and Minyi Guo. "When Power Oversubscription Meets Traffic Flood Attack: Re-thinking Data Center Peak Load Management". /In 48th International Conference on Parallel Processing (ICPP'19)./ [files/icpp19-power.pdf \[pdf\]]
 
 == Honors & Awards
 
@@ -71,5 +67,3 @@ Datacenter Computing (ECE 5710), Spring 2021
 == Contact
 
 Email: ml2585@cornell.edu
-
-Address: Rhodes Hall 471C, Cornell University, Ithaca, NY, 14850
